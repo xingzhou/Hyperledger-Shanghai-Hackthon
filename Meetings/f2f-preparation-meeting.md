@@ -34,11 +34,11 @@
    		- 参赛团队可自行选择英语或者中文进行展示和问答
    		- 为每个评审分组配备6～8位评委
    		- 目前的评委来源包括  
-     		(1). Linux Foundation: Brian, Chris
-     		(2). IBM一位，Ernie Hu， 田忠为Backup
-     		(3). Wanda一位， 徐辉
-     		(4). 从相关行业挑选两位（可以根据选手所在行业进行选择）
-     		(5). 从VC选择两到四位
+     		(1). Linux Foundation: Brian, Chris  
+     		(2). IBM一位，Ernie Hu， 田忠为Backup  
+     		(3). Wanda一位， 徐辉  
+     		(4). 从相关行业挑选两位（可以根据选手所在行业进行选择）  
+     		(5). 从VC选择两到四位    
    		- 开设一个公共的Github Repo, 各个团队于截止时间之前将所作作品的链接和文档等内容上传至此公共repo以待评选
  	* **奖项设计**
    		- IBM可以提供6个IBM Bluemix 1 年免费使用权（价值？需要Yanqing确认）
