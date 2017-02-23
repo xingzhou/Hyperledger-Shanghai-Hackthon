@@ -53,6 +53,7 @@
    - Ernie: Bluemix and Business
    - 邮储银行案例分享
    - 清华食品溯源案例分享
+   - 需要沟通MS，AWS演讲的内容
 
 * **Bluemix Training设计**
  * Venue由Tom负责落实
