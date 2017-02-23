@@ -5,10 +5,12 @@
 ###参会人员： 王燕青，田忠，邢舟
 
 ###会议总结
-* 整个活动分为三个并行环节：
+* **整个活动分为三个并行环节**
 	* Hypledger Forum
-	* Hack Coding * Innovation
+	* Hack Coding & Innovation
 	* Training for Hackers
+
+
 
 * **Hack Coding & Innovation设计**
 	* **开幕式环节的设计**
@@ -54,11 +56,13 @@
  	* **Bluemix/HyperLedger/Hackthon调查问卷** 
 
 
+
 * **Training For Hackers**
  	* Effective Presentation(Presentation in 10 minutes)
  	* Getting start with Bluemix Hyperledger Service
  	* Hacker Experience Sharing(Linux Foundation?) 
  	* How to bring your great idea to VC(Yanqing?)
+
 
 
 * **Hyperledger Forum设计**
@@ -69,7 +73,7 @@
    	- 清华食品溯源案例分享
 
 
- * **其他重要事项**
+* **其他重要事项**
  	* Hackthon需要设置一个报名截止日期
  	* Hackthon主持人一名
  	* Forum主持人一名
